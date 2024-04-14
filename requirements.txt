@@ -64,7 +64,7 @@ httpx==0.26.0
 huggingface-hub==0.20.3
 humanfriendly==10.0
 humanize==4.9.0
-idna==3.6
+idna==3.7
 importlib-metadata==6.11.0
 importlib-resources==6.1.1
 iopath==0.1.10
@@ -214,7 +214,7 @@ torch==2.2.0
 torchvision==0.17.0
 tornado==6.4
 tqdm==4.66.2
-transformers==4.37.2
+transformers==4.38.0
 typer==0.9.0
 typing-inspect==0.9.0
 typing_extensions==4.9.0
