@@ -44,7 +44,7 @@ entrypoints==0.4
 Faker==23.2.1
 fastapi==0.109.2
 favicon==0.7.0
-filelock==3.13.1
+filelock==3.20.3
 filetype==1.2.0
 flatbuffers==23.5.26
 fonttools==4.48.1
@@ -139,7 +139,7 @@ prometheus_client==0.20.0
 protobuf==4.25.2
 pulsar-client==3.4.0
 pyarrow==15.0.0
-pyasn1==0.5.1
+pyasn1==0.6.2
 pyasn1-modules==0.3.0
 pycocotools==2.0.7
 pycparser==2.21
@@ -150,7 +150,7 @@ pydeck==0.8.1b0
 Pygments==2.17.2
 pymdown-extensions==10.7
 pyparsing==3.1.1
-pypdf==4.0.1
+pypdf==6.6.0
 pypdfium2==4.27.0
 PyPika==0.48.9
 pyproject_hooks==1.0.0
